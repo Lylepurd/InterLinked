@@ -5,7 +5,7 @@ html {
 
 .landing {
   font-family: 'Kenia', sans-serif;
-  background-color: black;
+  /* background-color: black; */
   color: white;
   text-align: center;
   height: 100vh;
@@ -24,4 +24,13 @@ img {
 .linktag {
   margin-left: 2rem;
   margin-right: 2rem;
+}
+
+.particles {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -2;
 }

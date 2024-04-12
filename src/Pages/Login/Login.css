@@ -1,3 +1,18 @@
+.admin {
+  text-decoration: none;
+  color: white;
+  cursor: default;
+}
+
+.particles {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
+
 .signup {
   position: absolute;
   left: 50%;
@@ -18,13 +33,4 @@ h1 {
 
 p {
   margin-top: .5rem;
-}
-
-.particles {
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: -1;
 }
