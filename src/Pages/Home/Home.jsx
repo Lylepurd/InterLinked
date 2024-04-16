@@ -54,6 +54,8 @@ export function Home() {
       <div className="side-bar-home">
 
         <button className="btn btn-info" onClick={() => setCreatePost(true)}>Create Post</button>
+        <hr />
+        <button className="btn btn-info">Find Friends</button>
         
 
 
