@@ -5,7 +5,7 @@ export function Profile () {
     <>
     <nav class="navbar bg-body-tertiary fixed-top">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">InterLinked</a>
+        <a class="navbar-brand" href="/home">InterLinked</a>
         
           <span >Profile</span>
         
@@ -37,7 +37,6 @@ export function Profile () {
         </div>
       </div>
     </nav>
-    
     </>
   )
 }
